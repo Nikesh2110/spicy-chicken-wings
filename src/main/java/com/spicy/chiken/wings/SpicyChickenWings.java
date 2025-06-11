@@ -1,7 +1,4 @@
-package com.spicy.chicken.wings;
-
-import com.spicy.chiken.wings.Restaurant;
-import com.spicy.chiken.wings.Restaurants;
+package com.spicy.chiken.wings;
 
 import java.util.List;
 
