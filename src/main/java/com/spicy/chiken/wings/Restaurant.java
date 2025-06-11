@@ -6,6 +6,10 @@ public class Restaurant
     boolean isOpen;
     boolean doTakeaway;
 
+    public Restaurant(String name) {
+        this.name = name;
+    }
+
     public String getName()
     {
         return name;
